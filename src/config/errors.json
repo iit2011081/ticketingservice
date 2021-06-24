@@ -1,0 +1,17 @@
+{
+	"INVALID_REQUEST_DATA": {
+		"errorCode": 1001,
+		"message": "Bad request",
+		"responseCode": 400
+	},
+	"INVALID_ID": {
+		"errorCode": 1002,
+		"message": "Invalid id",
+		"responseCode": 404
+	},
+	"SOMETHING_WENT_WRONG": {
+		"errorCode": 1003,
+		"message": "Your request can't be processed, Please try after some time",
+		"responseCode": 500
+	}
+}

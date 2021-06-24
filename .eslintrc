@@ -1,0 +1,17 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "func-names": [
+      "error",
+      "never"
+    ],
+    "linebreak-style": 0,
+    "comma-dangle": 0,
+    "no-return-assign": 0,
+    "max-len": ["error", 200, 2]
+  },
+  "env": {
+    "node": true,
+    "es6": true
+  }
+}
