@@ -15,3 +15,5 @@ Steps to run this application<br />
 4 - mv .env.example to .env and update the content<br />
 5 - npm install<br />
 6 - npm run dev or npm run local<br />
+
+Postman Collection - https://documenter.getpostman.com/view/1205882/Tzedf41z
